@@ -6,11 +6,11 @@ Realitzat per [Jordi Mayné](https://github.com/maynej) des de Mechatronic Study
 
 Stemfie es un projecte de construcció lliure, que s'imprimeix en 3D (http://stemfie.org) 
 
-Electronics Suports (https://github.com/maynej/Electronics-Stemfie) amb compatibilitat Stemfie, pretén facilitar l'automatització de les construccions amb targes Arduino, Microbit, ESP...
+[Electronics Suports amb compatibilitat Stemfie](https://github.com/maynej/Electronics-Stemfie), pretén facilitar l'automatització de les construccions amb targes Arduino, Microbit, ESP... 
 
 Tota la [documentació es pot trobar en PDF](https://github.com/maynej/mClon-Stemfie/tree/main/DOC).
 
-STL per imprimir (https://github.com/maynej/mClon-Stemfie).
+STL per imprimir [aquí] (https://github.com/maynej/mClon-Stemfie/tree/main/STL_mClonSTEMFIE).
 
 ## Suports 3D
   
