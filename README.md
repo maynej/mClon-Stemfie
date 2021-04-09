@@ -30,8 +30,8 @@ Shoulder Screw BU01.00 |![](Imatges/BU01.00.png) | [BU01.00](STL_mClonSTEMFIE/Sh
 Shoulder Screw BU00.75 |![](Imatges/BU00.75.png) | [BU00.75](STL_mClonSTEMFIE/ShoulderScrewRHD_RH_BU00.75-SPN-SSC-0043.stl)
 Shoulder Screw BU00.50 |![](Imatges/BU00.50.png) | [BU00.50](STL_mClonSTEMFIE/ShoulderScrewRHD_RH_BU00.50-SPN-SSC-0042.stl)
 Nut |![](Imatges/Nut.png) | [Nut](STL_mClonSTEMFIE/NutRHBU01.00x5mm-SPN-NUT-0001.stl)
-Washers |![](Imatges/Washer.png) | [Nut](STL_mClonSTEMFIE/NutRHBU01.00x5mm-SPN-NUT-0001.stl)
-Escaire |![](Imatges/1L.png) | [Nut](STL_mClonSTEMFIE/1L.stl)
+Washers |![](Imatges/Washer.png) | [Whasher](STL_mClonSTEMFIE/NutRHBU01.00x5mm-SPN-NUT-0001.stl)
+Escaire |![](Imatges/1L.png) | [Escaire](STL_mClonSTEMFIE/1L.stl)
 
 # Opcional 
 Descripció         | Imatge          | Arxiu
