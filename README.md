@@ -22,9 +22,9 @@ Ultra Sound Sensor |![](Imatges/USSymmetricSensor4V.png)| [Symmetric](STL_mClonS
 MotorDC TT Support |![](/Imatges/MotorSupport.png) |[MotorDC TT L1] (STL_mClonSTEMFIE/MotorDCTT_L1_mClonSTEMFIE.stl), (STL_mClonSTEMFIE/MotorDCTT_L2_mClonSTEMFIE.stl), (STL_mClonSTEMFIE/MotorDCTT_R1_mClonSTEMFIE.stl), (STL_mClonSTEMFIE/MotorDCTT_R2_mClonSTEMFIE.stl) 
 Line Sensor |![](Imatges/LineSensor.png) | [Line Sensor] (STL/LineSensor_mClonSTEMFIE.stl)
 Logo mClon STEMFIE |![](Imatges/LDR.png)|[Logo] (STL_mClonSTEMFIE/Logo4_mClonSTEMFIE.stl)
-Options|
-Servo motor holder|![] (Imatges/Servo3H),(Imatges/Adapter.png) |[Servo](STL_mClonSTEMFIE/Servo3H_mClonSTEMFIE.stl),[Adapter SG9](STL_mClonSTEMFIE/Servo9GAdapter_Stemfie.stl)
-Suport Sensor Llum LDR|![](Imatges/LDR.png) | [LDR L](STL_mClonSTEMFIE/LDRSensorL_STEMFIE.stl), [LDR R](STL_mClonSTEMFIE/LDRSensorL_STEMFIE.stl)
+# Opcions|
+Servo motor holder|![] (Imatges/Servo3H),(Imatges/Adapter.png) |[Servo](STL_mClonSTEMFIE/Servo3H_mClonSTEMFIE.stl), [Adapter SG9](STL_mClonSTEMFIE/Servo9GAdapter_Stemfie.stl)
+Suport Sensor Llum LDR|![](Imatges/LDR.png) | [LDR L](STL_mClonSTEMFIE/LDRSensorL_mClonSTEMFIE.stl), [LDR R](STL_mClonSTEMFIE/LDRSensorR_mClonSTEMFIE.stl)
 
 ## Llicència
 
