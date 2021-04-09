@@ -25,7 +25,7 @@ Logo mClon STEMFIE |![](Imatges/Logo_mClonSTEMFIE.png) | [Logo](STL_mClonSTEMFIE
 # Opcions |
 Descripció         | Imatge          | Arxiu
 ------------- | ------------- | ------------- 
-Servo motor holder |![](Imatges/Servo3H.png)![](Imatges/Servo3.png) | [Servo](STL_mClonSTEMFIE/Servo3H_mClonSTEMFIE.stl) , [Adapter SG9](STL_mClonSTEMFIE/Servo9GAdapter_Stemfie.stl)
+Servo motor holder |![](Imatges/Servo3H.png)![](Imatges/Adapter.png) | [Servo](STL_mClonSTEMFIE/Servo3H_mClonSTEMFIE.stl) , [Adapter SG9](STL_mClonSTEMFIE/Servo9GAdapter_Stemfie.stl)
 Suport Sensor Llum LDR |![](Imatges/LDR.png) | [LDR L](STL_mClonSTEMFIE/LDRSensorL_mClonSTEMFIE.stl) , [LDR R](STL_mClonSTEMFIE/LDRSensorR_mClonSTEMFIE.stl)
 
 ## Llicència
