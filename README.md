@@ -32,13 +32,17 @@ Shoulder Screw BU00.75 |![](Imatges/BU00.75.png) | [BU00.75](STL_mClonSTEMFIE/Sh
 Shoulder Screw BU00.50 |![](Imatges/BU00.50.png) | [BU00.50](STL_mClonSTEMFIE/ShoulderScrewRHD_RH_BU00.50-SPN-SSC-0042.stl)
 Nut |![](Imatges/Nut.png) | [Nut](STL_mClonSTEMFIE/NutRHBU01.00x5mm-SPN-NUT-0001.stl)
 Washers |![](Imatges/Washer.png) | [Whasher](STL_mClonSTEMFIE/NutRHBU01.00x5mm-SPN-NUT-0001.stl)
-Escaire |![](Imatges/1L.png) | [Escaire](STL_mClonSTEMFIE/1L.stl)
+Block 4 |![](Imatges/Block4.png) | [Block 4](STL_mClonSTEMFIE/beam1x1x4.stl)
+Bracer 3 |![](Imatges/Brace3.png) | [Block 4](STL_mClonSTEMFIE/BraceSTRERRBU03x01x00.25-SPN-BRC-0002.stl)
 
 # Opcional 
 Descripció         | Imatge          | Arxiu
 ------------- | ------------- | ------------- 
 Servo motor holder |![](Imatges/Servo3H.png)![](Imatges/ServoAdapter.png) | [Servo](STL_mClonSTEMFIE/Servo3H_mClonSTEMFIE.stl) , [Adapter SG9](STL_mClonSTEMFIE/Servo9GAdapter_Stemfie.stl)
 Suport Sensor Llum LDR |![](Imatges/LDR.png) | [LDR L](STL_mClonSTEMFIE/LDRSensorL_mClonSTEMFIE.stl) , [LDR R](STL_mClonSTEMFIE/LDRSensorR_mClonSTEMFIE.stl)
+Escaire |![](Imatges/1L.png) | [Escaire](STL_mClonSTEMFIE/1L.stl)
+Bracer 4 |![](Imatges/Brace4.png) | [Block 4](STL_mClonSTEMFIE/BraceSTRERRBU04x01x00.25-SPN-BRC-0003.stl)
+
 
 ## Llicència
 
