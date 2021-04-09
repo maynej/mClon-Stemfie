@@ -16,14 +16,17 @@ STL per imprimir (https://github.com/maynej/mClon-Stemfie).
   
 Descripció         | Imatge          | Arxiu         
 ------------- | ------------- | ------------- 
-Arduino UNO Base |![](ArduinoUNOBase.png) | [](STL/ArduinoUNOBase_mClonSTEMFIE.stl)
-Holder Li-ion 18650|![](Imatges/18650Holder.png) | [](STL/18650Holder_mClonSTEMFIE.stl)
-Ultra Sound Sensor |![](Imatges/USSymmetricSensor4V.png)| [](STL/USSymmetricSensor4V_mClonSTEMFIE.stl), (STL/USAsymmetricSensor4V_mClonSTEMFIE.stl)
-Suport Motor DC TT|![](Imatges/MotorTT.png) |[MotorTT L1](Motors/MotorDC_TT_L1_mClonSTEMFIE.stl), [MotorTT L2](Motors/MotorDC_TT_L2_mClonSTEMFIE.stl), [MotorTT R1](Motors/MotorDC_TT_R1_mClonSTEMFIE.stl), [MotorTT R2](Motors/MotorDC_TT_R2_mClonSTEMFIE.stl) 
-MotorDC TT Support |![](/Imatges/MotorSupport.png) |[MotorDC TT L1] (STL/MotorDCTT_L1_mClonSTEMFIE.stl), (STL/MotorDCTT_L2_mClonSTEMFIE.stl), (STL/MotorDCTT_R1_mClonSTEMFIE.stl), (STL/MotorDCTT_R2_mClonSTEMFIE.stl) 
-Line Sensor |![](Imatges/LineSensor.png) | [Pending]
-Suport palanca Servo-motor SG9|![](Imatges/Adapter.png) |[Adapter SG9](ServoMount/Servo9GAdapter_Stemfie.stl)
-Suport Sensor Llum LDR|![](Imatges/LDR.png) | [LDR L](SensorsMount/LDRSensorL_STEMFIE.stl), [LDR R](SensorsMount/LDRSensorL_STEMFIE.stl)
+Arduino UNO Base |![](Imatges/ArduinoUNOBase.png) | [Arduino UNO base](STL_mClonSTEMFIE/ArduinoUNOBase_mClonSTEMFIE.stl)
+Holder Li-ion 18650|![](Imatges/18650Holder.png) | [18650](STL_mClonSTEMFIE/18650Holder_mClonSTEMFIE.stl)
+Ultra Sound Sensor |![](Imatges/USSymmetricSensor4V.png) | [Symmetric](STL_mClonSTEMFIE/USSymmetricSensor4V_mClonSTEMFIE.stl), [Asymmetric] (STL_mClonSTEMFIE/USAsymmetricSensor4V_mClonSTEMFIE.stl)
+MotorDC TT Support |![](/Imatges/MotorSupport.png) | [MotorDC TT L1] (STL_mClonSTEMFIE/MotorDCTT_L1_mClonSTEMFIE.stl), (STL_mClonSTEMFIE/MotorDCTT_L2_mClonSTEMFIE.stl), (STL_mClonSTEMFIE/MotorDCTT_R1_mClonSTEMFIE.stl), (STL_mClonSTEMFIE/MotorDCTT_R2_mClonSTEMFIE.stl) 
+Line Sensor |![](Imatges/LineSensor.png) | [Line Sensor] (STL/LineSensor_mClonSTEMFIE.stl)
+Logo mClon STEMFIE |![](Imatges/Logo_mClonSTEMFIE.png) | [Logo] (STL_mClonSTEMFIE/Logo4_mClonSTEMFIE.stl)
+# Opcions |
+Descripció         | Imatge          | Arxiu
+------------- | ------------- | ------------- 
+Servo motor holder |![](Imatges/Servo3H),(Imatges/Adapter.png) | [Servo](STL_mClonSTEMFIE/Servo3H_mClonSTEMFIE.stl), [Adapter SG9](STL_mClonSTEMFIE/Servo9GAdapter_Stemfie.stl)
+Suport Sensor Llum LDR|![](Imatges/LDR.png) | [LDR L](STL_mClonSTEMFIE/LDRSensorL_mClonSTEMFIE.stl), [LDR R](STL_mClonSTEMFIE/LDRSensorR_mClonSTEMFIE.stl)
 
 ## Llicència
 
