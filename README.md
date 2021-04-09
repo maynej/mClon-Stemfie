@@ -6,11 +6,11 @@ Realitzat per [Jordi Mayné](https://github.com/maynej) des de Mechatronic Study
 
 Stemfie es un projecte de construcció lliure, que s'imprimeix en 3D (http://stemfie.org) 
 
-Electronics Suports (https://github.com/maynej/Electronics-Stemfie) amb compatibilitat Stemfie, pretén facilitar l'automatització de les construccions amb targes Arduino, Microbit, ESP...
+[Electronics Suports amb compatibilitat Stemfie](https://github.com/maynej/Electronics-Stemfie), pretén facilitar l'automatització de les construccions amb targes Arduino, Microbit, ESP... 
 
-Tota la [documentació es pot trobar en PDF](https://github.com/maynej/Electronics-Stemfie/tree/main/Doc).
+Tota la [documentació es pot trobar en PDF](https://github.com/maynej/mClon-Stemfie/tree/main/DOC).
 
-STL per imprimir (https://github.com/maynej/mClon-Stemfie).
+STL per imprimir [aquí](https://github.com/maynej/mClon-Stemfie/tree/main/STL_mClonSTEMFIE).
 
 ## Suports 3D
   
@@ -25,7 +25,7 @@ Logo mClon STEMFIE |![](Imatges/Logo_mClonSTEMFIE.png) | [Logo](STL_mClonSTEMFIE
 # Opcional |
 Descripció         | Imatge          | Arxiu
 ------------- | ------------- | ------------- 
-Servo motor holder |![](Imatges/Servo3H.png)![](Imatges/Adapter.png) | [Servo](STL_mClonSTEMFIE/Servo3H_mClonSTEMFIE.stl) , [Adapter SG9](STL_mClonSTEMFIE/Servo9GAdapter_Stemfie.stl)
+Servo motor holder |![](Imatges/Servo3H.png)![](Imatges/ServoAdapter.png) | [Servo](STL_mClonSTEMFIE/Servo3H_mClonSTEMFIE.stl) , [Adapter SG9](STL_mClonSTEMFIE/Servo9GAdapter_Stemfie.stl)
 Suport Sensor Llum LDR |![](Imatges/LDR.png) | [LDR L](STL_mClonSTEMFIE/LDRSensorL_mClonSTEMFIE.stl) , [LDR R](STL_mClonSTEMFIE/LDRSensorR_mClonSTEMFIE.stl)
 
 ## Llicència
