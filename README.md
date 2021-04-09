@@ -16,13 +16,14 @@ STL per imprimir (https://github.com/maynej/mClon-Stemfie).
   
 Descripció         | Imatge          | Arxiu         
 ------------- | ------------- | ------------- 
-Arduino UNO Base |![](ArduinoUNOBase.png) | [Arduino UNO base](ArduinoUNOBase_mClonSTEMFIE.stl)
-Holder Li-ion 18650|![](Imatges/18650Holder.png) | [](18650Holder_mClonSTEMFIE.stl)
-Ultra Sound Sensor |![](Imatges/USSymmetricSensor4V.png)| [Symmetric](STL/USSymmetricSensor4V_mClonSTEMFIE.stl), [Asymmetric] (STL/USAsymmetricSensor4V_mClonSTEMFIE.stl)
-Suport Motor DC TT|![](Imatges/MotorTT.png) |[MotorTT L1](Motors/MotorDC_TT_L1_mClonSTEMFIE.stl), [MotorTT L2](Motors/MotorDC_TT_L2_mClonSTEMFIE.stl), [MotorTT R1](Motors/MotorDC_TT_R1_mClonSTEMFIE.stl), [MotorTT R2](Motors/MotorDC_TT_R2_mClonSTEMFIE.stl) 
+Arduino UNO Base |![](Imatges/ArduinoUNOBase.png) | [Arduino UNO base](STL_mClon/ArduinoUNOBase_mClonSTEMFIE.stl)
+Holder Li-ion 18650|![](Imatges/18650Holder.png) | [18650](STL_mClon/18650Holder_mClonSTEMFIE.stl)
+Ultra Sound Sensor |![](Imatges/USSymmetricSensor4V.png)| [Symmetric](STL_mClon/USSymmetricSensor4V_mClonSTEMFIE.stl), [Asymmetric] (STL_mClon/USAsymmetricSensor4V_mClonSTEMFIE.stl)
 MotorDC TT Support |![](/Imatges/MotorSupport.png) |[MotorDC TT L1] (STL/MotorDCTT_L1_mClonSTEMFIE.stl), (STL/MotorDCTT_L2_mClonSTEMFIE.stl), (STL/MotorDCTT_R1_mClonSTEMFIE.stl), (STL/MotorDCTT_R2_mClonSTEMFIE.stl) 
-Line Sensor |![](Imatges/LineSensor.png) | [Pending]
-Suport palanca Servo-motor SG9|![](Imatges/Adapter.png) |[Adapter SG9](ServoMount/Servo9GAdapter_Stemfie.stl)
+Line Sensor |![](Imatges/LineSensor.png) | [Line Sensor] (STL/LineSensor_mClonSTEMFIE.stl)
+Logo mClon STEMFIE |![](Imatges/LDR.png)|[Logo] (STL/Logo4_mClonSTEMFIE.stl)
+Options|
+Servo motor holder|![] (Imatges/Servo3H),(Imatges/Adapter.png) |[Servo](STL/Servo3H_mClonSTEMFIE.stl),[Adapter SG9](STL/Servo9GAdapter_Stemfie.stl)
 Suport Sensor Llum LDR|![](Imatges/LDR.png) | [LDR L](SensorsMount/LDRSensorL_STEMFIE.stl), [LDR R](SensorsMount/LDRSensorL_STEMFIE.stl)
 
 ## Llicència
