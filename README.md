@@ -22,7 +22,11 @@ Ultra Sound Sensor |![](Imatges/USSymmetricSensor4V.png) | [Symmetric](STL_mClon
 MotorDC TT Support |![](Imatges/MotorSupport.png) | [MotorDC TT L1](STL_mClonSTEMFIE/MotorDCTT_L1_mClonSTEMFIE.stl), [MotorDC TT L2](STL_mClonSTEMFIE/MotorDCTT_L2_mClonSTEMFIE.stl), [MotorDC TT R1](STL_mClonSTEMFIE/MotorDCTT_R1_mClonSTEMFIE.stl), [MotorDC TT R2](STL_mClonSTEMFIE/MotorDCTT_R2_mClonSTEMFIE.stl) 
 Line Sensor |![](Imatges/LineSensor.png) | [Line Sensor](STL_mClonSTEMFIE/LineSensor_mClonSTEMFIE.stl)
 Logo mClon STEMFIE |![](Imatges/Logo_mClonSTEMFIE.png) | [Logo](STL_mClonSTEMFIE/Logo4_mClonSTEMFIE.stl)
-# Opcional |
+Shoulder Screw BU02.00 |![](Imatges/Logo_mClonSTEMFIE.png) | [Logo](STL_mClonSTEMFIE/Shoulder Screw RHD RH BU02.00 - SPN-SSC-0048 (stemfie.org).stl)
+Shoulder Screw BU01.75 |![](Imatges/Logo_mClonSTEMFIE.png) | [Logo](STL_mClonSTEMFIE/Shoulder Screw RHD RH BU01.75 - SPN-SSC-0047 (stemfie.org).stl)
+Shoulder Screw BU01.50 |![](Imatges/Logo_mClonSTEMFIE.png) | [Logo](STL_mClonSTEMFIE/Shoulder Screw RHD RH BU01.50 - SPN-SSC-0046 (stemfie.org).stl)
+
+# Opcional 
 Descripció         | Imatge          | Arxiu
 ------------- | ------------- | ------------- 
 Servo motor holder |![](Imatges/Servo3H.png)![](Imatges/ServoAdapter.png) | [Servo](STL_mClonSTEMFIE/Servo3H_mClonSTEMFIE.stl) , [Adapter SG9](STL_mClonSTEMFIE/Servo9GAdapter_Stemfie.stl)
