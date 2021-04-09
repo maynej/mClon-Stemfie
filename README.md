@@ -16,7 +16,7 @@ STL per imprimir (https://github.com/maynej/mClon-Stemfie).
   
 Descripció         | Imatge          | Arxiu         
 ------------- | ------------- | ------------- 
-Arduino UNO Base |![](Imatges/ArduinoUNOBase.png) | [Arduino UNO base](STL_mClon/ArduinoUNOBase_mClonSTEMFIE.stl)
+Arduino UNO Base |![](Imatges/ArduinoUNOBase.png) | [Arduino UNO base](STL_mClonSTEMFIE/ArduinoUNOBase_mClonSTEMFIE.stl)
 Holder Li-ion 18650|![](Imatges/18650Holder.png) | [18650](STL_mClon/18650Holder_mClonSTEMFIE.stl)
 Ultra Sound Sensor |![](Imatges/USSymmetricSensor4V.png)| [Symmetric](STL_mClon/USSymmetricSensor4V_mClonSTEMFIE.stl), [Asymmetric] (STL_mClon/USAsymmetricSensor4V_mClonSTEMFIE.stl)
 MotorDC TT Support |![](/Imatges/MotorSupport.png) |[MotorDC TT L1] (STL/MotorDCTT_L1_mClonSTEMFIE.stl), (STL/MotorDCTT_L2_mClonSTEMFIE.stl), (STL/MotorDCTT_R1_mClonSTEMFIE.stl), (STL/MotorDCTT_R2_mClonSTEMFIE.stl) 
