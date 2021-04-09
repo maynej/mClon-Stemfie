@@ -10,7 +10,7 @@ Stemfie es un projecte de construcció lliure, que s'imprimeix en 3D (http://ste
 
 Tota la [documentació es pot trobar en PDF](https://github.com/maynej/mClon-Stemfie/tree/main/DOC).
 
-STL per imprimir [aquí] (https://github.com/maynej/mClon-Stemfie/tree/main/STL_mClonSTEMFIE).
+STL per imprimir [aquí](https://github.com/maynej/mClon-Stemfie/tree/main/STL_mClonSTEMFIE).
 
 ## Suports 3D
   
