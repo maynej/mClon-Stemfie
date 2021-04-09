@@ -25,7 +25,11 @@ Logo mClon STEMFIE |![](Imatges/Logo_mClonSTEMFIE.png) | [Logo](STL_mClonSTEMFIE
 Shoulder Screw BU02.00 |![](Imatges/BU02.00.png) | [BU02.00](STL_mClonSTEMFIE/Shoulder Screw RHD RH BU02.00 - SPN-SSC-0048 (stemfie.org).stl)
 Shoulder Screw BU01.75 |![](Imatges/BU01.75.png) | [BU01.75](STL_mClonSTEMFIE/Shoulder Screw RHD RH BU01.75 - SPN-SSC-0047 (stemfie.org).stl)
 Shoulder Screw BU01.50 |![](Imatges/BU01.50.png) | [BU01.50](STL_mClonSTEMFIE/Shoulder Screw RHD RH BU01.50 - SPN-SSC-0046 (stemfie.org).stl)
-Shoulder Screw BU01.00 |![](Imatges/BU01.00.png) | [BU01.00](STL_mClonSTEMFIE/Shoulder Screw RHD RH BU01.00 - SPN-SSC-0045 (stemfie.org).stl)
+Shoulder Screw BU01.00 |![](Imatges/BU01.00.png) | [BU01.00](STL_mClonSTEMFIE/Shoulder Screw RHD RH BU01.00 - SPN-SSC-0044 (stemfie.org).stl)
+
+Shoulder Screw BU00.50 |![](Imatges/BU00.50.png) | [Cargol BU00.50](STL_mClonSTEMFIE/ShoulderScrewRHD_RH_BU00.50-SPN-SSC-0042.stl)
+Shoulder Screw BU00.75 |![](Imatges/BU00.75.png) | [Cargol BU00.75](STL_mClonSTEMFIE/ShoulderScrewRHD_RH_BU00.75-SPN-SSC-0043.stl)
+Shoulder Screw BU02.00 |![](Imatges/BU02.00.png) | [Cargol BU02.00](STL_mClonSTEMFIE/ShoulderScrewRHD_RH_BU02.00-SPN-SSC-0048.stl)
 
 
 # Opcional 
