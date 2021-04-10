@@ -1,10 +1,12 @@
 # mClon-Stemfie
 
-[mClon](https://tecnoloxia.org/mclon) amb compatibilitat Stemfie
+mClon amb compatibilitat Stemfie
 
 <img src="Imatges/mClon-Stemfie.png" width="300" />
 
 Realitzat per [Jordi Mayné](https://github.com/maynej) des de Mechatronic Study <img src="Imatges/Logo3senseFons.png" width="50" />
+
+[mClon](https://tecnoloxia.org/mclon) es un robot educatiu dedicat a la programació, clonat del [mBot](https://www.makeblock.com) de MakerBlock. 
 
 STEMFIE es un projecte de construcció lliure, que s'imprimeix en 3D (http://stemfie.org) <img src="Imatges/LogoSTEMFIE.png" width="100" />
 
