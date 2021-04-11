@@ -2,9 +2,13 @@
 
 mClon amb compatibilitat Stemfie
 
+<img src="Imatges/mClon-Stemfie.png" width="300" />
+
 Realitzat per [Jordi Mayné](https://github.com/maynej) des de Mechatronic Study <img src="Imatges/Logo3senseFons.png" width="50" />
 
-Stemfie es un projecte de construcció lliure, que s'imprimeix en 3D (http://stemfie.org) 
+[mClon](https://tecnoloxia.org/mclon) es un robot educatiu dedicat a la programació, clonat del [mBot](https://www.makeblock.com) de MakerBlock. 
+
+STEMFIE es un projecte de construcció lliure, que s'imprimeix en 3D (http://stemfie.org) <img src="Imatges/LogoSTEMFIE.png" width="100" />
 
 [Electronics Suports amb compatibilitat Stemfie](https://github.com/maynej/Electronics-Stemfie), pretén facilitar l'automatització de les construccions amb targes Arduino, Microbit, ESP... 
 
@@ -46,4 +50,4 @@ Tensor 4 |![](Imatges/Brace4.png) | [Tensor 4](STL_mClonSTEMFIE/BraceSTRERRBU04x
 
 ## Llicència
 
-Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+Creative Commons Attribution-NoComercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)  <img src="Imatges/CC.png" width="100" />
