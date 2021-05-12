@@ -25,7 +25,7 @@ Bateria 18650 |![](Imatges/18650Holder.png) | [18650](STL_mClonSTEMFIE/18650Hold
 Sensor Ultra-Sons |![](Imatges/USSymmetricSensor4V.png) | [Simetric](STL_mClonSTEMFIE/USSymmetricSensor4V_mClonSTEMFIE.stl) , [Asimetric](STL_mClonSTEMFIE/USAsymmetricSensor4V_mClonSTEMFIE.stl)
 Suport MotorDC TT |![](Imatges/MotorSupport.png) | [MotorDC TT L1](STL_mClonSTEMFIE/MotorDCTT_L1_mClonSTEMFIE.stl), [MotorDC TT L2](STL_mClonSTEMFIE/MotorDCTT_L2_mClonSTEMFIE.stl), [MotorDC TT R1](STL_mClonSTEMFIE/MotorDCTT_R1_mClonSTEMFIE.stl), [MotorDC TT R2](STL_mClonSTEMFIE/MotorDCTT_R2_mClonSTEMFIE.stl) 
 Sensor Línia Sensor |![](Imatges/LineSensor.png) | [Sensor Línia](STL_mClonSTEMFIE/LineSensor_mClonSTEMFIE.stl)
-Roda |![](Imatges/Roda1.png) ![](Imatges/Roda2.png) | [Roda 1L](STL_mClonSTEMFIE/Wheel_1L_mClonSTEMFIE.stl), [Roda 1R](STL_mClonSTEMFIE/Wheel_1R_mClonSTEMFIE.stl), [Roda 2L](STL_mClonSTEMFIE/Wheel_2L_mClonSTEMFIE.stl), [Roda 2R](STL_mClonSTEMFIE/Wheel_2R_mClonSTEMFIE.stl)
+Roda 1 o Roda 2 |![](Imatges/Roda1.png) ![](Imatges/Roda2.png) | [Roda 1L](STL_mClonSTEMFIE/Wheel_1L_mClonSTEMFIE.stl), [Roda 1R](STL_mClonSTEMFIE/Wheel_1R_mClonSTEMFIE.stl), [Roda 2L](STL_mClonSTEMFIE/Wheel_2L_mClonSTEMFIE.stl), [Roda 2R](STL_mClonSTEMFIE/Wheel_2R_mClonSTEMFIE.stl)
 Logo mClon STEMFIE |![](Imatges/Logo_mClonSTEMFIE.png) | [Logo](STL_mClonSTEMFIE/Logo4_mClonSTEMFIE.stl)
 Cargol BU02.00 |![](Imatges/BU02.00.png) | [BU02.00](STL_mClonSTEMFIE/ShoulderScrewRHDRHBU02.00-SPN-SSC-0048.stl)
 Cargol BU01.75 |![](Imatges/BU01.75.png) | [BU01.75](STL_mClonSTEMFIE/ShoulderScrewRHDRHBU01.75-SPN-SSC-0047.stl)
