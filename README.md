@@ -2,7 +2,7 @@
 
 mClon amb compatibilitat Stemfie
 
-<img src="Imatges/mClon-Stemfie.png" width="300" />
+<img src="Imatges/mClon-Stemfie.png" width="500" />
 
 Realitzat per [Jordi Mayné](https://github.com/maynej) des de Mechatronic Study <img src="Imatges/Logo3senseFons.png" width="50" />
 
